@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/macbook/FlutterWorkspace/datum_task/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/macbook/FlutterWorkspace/datum_task/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/macbook/FlutterWorkspace/datum_task/build/ios/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Users/macbook/FlutterWorkspace/datum_task/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/macbook/FlutterWorkspace/datum_task/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/macbook/FlutterWorkspace/datum_task/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/macbook/FlutterWorkspace/datum_task/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/macbook/FlutterWorkspace/datum_task/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/macbook/FlutterWorkspace/datum_task/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/macbook/FlutterWorkspace/datum_task/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/macbook/FlutterWorkspace/datum_task/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/macbook/FlutterWorkspace/datum_task/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/macbook/FlutterWorkspace/datum_task/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/macbook/FlutterWorkspace/datum_task/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/macbook/FlutterWorkspace/datum_task/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/macbook/FlutterWorkspace/datum_task/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/macbook/FlutterWorkspace/datum_task/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/macbook/FlutterWorkspace/datum_task/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/macbook/FlutterWorkspace/datum_task/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h \
+  /Users/macbook/FlutterWorkspace/datum_task/build/ios/Debug-iphonesimulator/path_provider_foundation/path_provider_foundation.framework/Modules/module.modulemap \
+  /Users/macbook/FlutterWorkspace/datum_task/build/ios/Debug-iphonesimulator/path_provider_foundation/path_provider_foundation.framework/Headers/path_provider_foundation-Swift.h \
+  /Users/macbook/FlutterWorkspace/datum_task/build/ios/Debug-iphonesimulator/path_provider_foundation/path_provider_foundation.framework/Headers/path_provider_foundation-umbrella.h \
+  /Users/macbook/FlutterWorkspace/datum_task/build/ios/Debug-iphonesimulator/shared_preferences_foundation/shared_preferences_foundation.framework/Modules/module.modulemap \
+  /Users/macbook/FlutterWorkspace/datum_task/build/ios/Debug-iphonesimulator/shared_preferences_foundation/shared_preferences_foundation.framework/Headers/shared_preferences_foundation-Swift.h \
+  /Users/macbook/FlutterWorkspace/datum_task/build/ios/Debug-iphonesimulator/shared_preferences_foundation/shared_preferences_foundation.framework/Headers/shared_preferences_foundation-umbrella.h \
+  /Users/macbook/FlutterWorkspace/datum_task/build/ios/Debug-iphonesimulator/smart_auth/smart_auth.framework/Headers/SmartAuthPlugin.h \
+  /Users/macbook/FlutterWorkspace/datum_task/build/ios/Debug-iphonesimulator/smart_auth/smart_auth.framework/Modules/module.modulemap \
+  /Users/macbook/FlutterWorkspace/datum_task/build/ios/Debug-iphonesimulator/smart_auth/smart_auth.framework/Headers/smart_auth-Swift.h \
+  /Users/macbook/FlutterWorkspace/datum_task/build/ios/Debug-iphonesimulator/smart_auth/smart_auth.framework/Headers/smart_auth-umbrella.h

@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "77301ec764fc9a86b92fcb2f53cd022a4d0120892d1702058196f9c9c2a38bf5"
+build_start_time: [1688381991, 360718965]
+build_end_time: [1688381994, 973587989]
+inputs:
+  "/Users/macbook/.pub-cache/hosted/pub.dev/smart_auth-1.0.8/ios/Classes/SwiftSmartAuthPlugin.swift": [1687437818, 708736419]
